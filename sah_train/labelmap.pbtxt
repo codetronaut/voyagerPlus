@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'Figure of Buddha, Ellora'
+}
+
+item {
+  id: 2
+  name: 'Mara Vijay Painting'
+}
+
+item {
+  id: 3
+  name: 'Mahajanaka'
+}
+
+item {
+  id: 4
+  name: 'Bodhisatva Padampani'
+}
+
+item {
+  id: 5
+  name: 'Mendha Tope'
+}

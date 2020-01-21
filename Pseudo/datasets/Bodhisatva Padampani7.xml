@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bodhisatva Padampani</folder>
+	<filename>Bodhisatva Padampani7.jpeg</filename>
+	<path>/home/codetronaut/voyagerPlus/datasets/Bodhisatva Padampani/Bodhisatva Padampani7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bodhisatva Padampani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>5</ymin>
+			<xmax>179</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

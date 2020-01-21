@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Bodhisatva Padampani2.jpeg</filename>
+	<path>/home/codetronaut/voyagerPlus/sah_images/train/Bodhisatva Padampani2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bodhisatva Padampani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>179</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

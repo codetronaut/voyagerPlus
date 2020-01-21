@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasets</folder>
+	<filename>Figure of Buddha, Ellora1.jpg</filename>
+	<path>/home/codetronaut/voyagerPlus/sah_images/train/Figure of Buddha, Ellora1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>417</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Figure of Buddha, Ellora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>15</ymin>
+			<xmax>406</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

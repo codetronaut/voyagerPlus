@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mara Vijay Painting</folder>
+	<filename>Mara Vijay Painting2.jpg</filename>
+	<path>/home/codetronaut/voyagerPlus/datasets/Mara Vijay Painting/Mara Vijay Painting2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>381</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mara Vijay Painting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>25</ymin>
+			<xmax>348</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mara Vijay Painting</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>6</ymin>
+			<xmax>381</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

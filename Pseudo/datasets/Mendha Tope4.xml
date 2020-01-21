@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Mendha Tope4.jpg</filename>
+	<path>/home/codetronaut/voyagerPlus/sah_images/train/Mendha Tope4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mendha Tope</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>7</ymin>
+			<xmax>1017</xmax>
+			<ymax>1358</ymax>
+		</bndbox>
+	</object>
+</annotation>

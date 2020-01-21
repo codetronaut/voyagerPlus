@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medhana Canon</folder>
+	<filename>Medhana Tope5.jpg</filename>
+	<path>/home/codetronaut/voyagerPlus/datasets/Medhana Canon/Medhana Tope5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medhana Tope</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>5</ymin>
+			<xmax>635</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>
